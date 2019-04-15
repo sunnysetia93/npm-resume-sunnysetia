@@ -1,6 +1,6 @@
 # Npm Resume - Sunny Setia
 
-** Interactive command line resume of Sunny Setia!**
+**Interactive command line resume of Sunny Setia!**
 
 ![](npmresumesunnysetia.gif)
 
