@@ -1,8 +1,8 @@
 # Npm Resume - Sunny Setia
 
-** Interactive command line resume of Sunny Setia!**
+**Interactive command line resume of Sunny Setia!**
 
-![](npmresumesunnysetia.gif)
+![](https://github.com/sunnysetia93/npm-resume-sunnysetia/blob/master/npmresumesunnysetia.gif)
 
 
 Run these simple commands on your terminal to view my resume:
