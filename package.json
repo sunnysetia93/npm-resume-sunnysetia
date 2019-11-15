@@ -1,6 +1,6 @@
 {
   "name": "resume-sunnysetia",
-  "version": "1.1.12",
+  "version": "1.1.14",
   "description": "interactive command line resume of sunny setia",
   "main": "./index.js",
   "scripts": {
