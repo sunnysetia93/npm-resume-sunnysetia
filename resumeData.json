@@ -4,17 +4,19 @@
       "B.Sc.(H) Computer Science - University of Delhi (DU)"
     ],
     "Past Experience": [
-      "Software Engineer at Nagarro Software | Jan'18 - Present",
-      "Backend Software Developer at Symptum | June-July 2016"
+      "Software Engineer at Medtrail, Delhi | Oct'18 - Present",
+      "Software Engineer at Nagarro Software | Jan'18 - Oct'18",
+      "Backend Software Developer Intern at Symptum | June-July 2016"
     ],
     "Skills": [
-      "Languages - JavaScript, C#, Java, Basic experience in Python",
+      "Languages - JavaScript, Java, Basic experience in Python",
       "WEB TECHNOLOGIES - HTML, CSS, Bootstrap,  JavaScript, NodeJs, Angular, Ajax, , GraphQL, XHR, RESTful API",
-      "DBMS - MySQL, MS Sql Server, MongoDb",
-      "DEV-OPS - AWS, Heroku, Digital Ocean, DOCKER"
+      "DBMS - MySQL, MS Sql Server, Postgresql, MongoDb",
+      "DEV-OPS - AWS, Heroku, Digital Ocean, DOCKER",
+      "Others - Redis, Elasticache, AWS Kinesis, Kafka"
     ],
     "Resume": ["https://drive.google.com/drive/folders/1T6AlgyRfUHaC0g1uC0ejgRjvMBmYsfdk?usp=sharing"],
     "GitHub": ["https://github.com/sunnysetia93"],
     "LinkedIn" : ["https://linkedin.com/in/sunnysetia93"],
-    "Contact": ["sunnysetia93@gmail.com"]
+    "Contact": ["sunnysetia93@gmail.com","+919871236381"]
   }
